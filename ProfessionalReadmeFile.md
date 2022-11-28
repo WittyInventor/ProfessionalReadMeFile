@@ -1,5 +1,5 @@
 
-  # Title: d 
+  # Title: Professional Readme File 
   ## Table of Contents 
   - [Description](#description) 
   - [Installation](#installation) 
@@ -11,25 +11,25 @@
   - [Email](#email) 
 
   ## Description:  
-  d 
+  I made this project in order to learn node in javascript and to generate a professional ReadMe. 
     
   ## Installation: 
-  d 
+  Inquirer needs to be installed. 
   
   ## Usage: 
-  d 
+  After installation, the user sees a list of questions to answer and inputs their answers. After completion of those questions, the ReadMe preview will show all of the information and the users inputted answers.rs 
   
   ## License: 
-  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) 
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
   
   ## Contributors: 
-  d 
+  none 
   
   ## Testing: 
-  d 
+  node index.js 
   
   ## Questions: 
-  d [link](https://github.com/d 
+  email [link](https://github.com/wittyinventor 
   
   ## Email: 
-  d
+  atsheridan38@gmail.com
